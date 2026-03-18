@@ -1,13 +1,22 @@
 # Mindflow Interactive
 
-Mindflow Interactive builds digital tools designed to improve human interaction through structured thinking, cognitive clarity and better communication.
+Mindflow Interactive develops digital tools designed to improve human interaction.
 
-Our work focuses on helping people:
-- understand each other more clearly
-- structure discussions more effectively
-- reduce confusion and relational friction
-- make better decisions together
+Our approach is based on structured thinking, cognitive clarity and practical frameworks that help people communicate more effectively, reduce misunderstandings and make better decisions together.
 
-We believe technology should support human thinking, not replace it.
+## What we build
 
-Website: https://mindflow-interactive.com
+We create applications that:
+- structure complex discussions
+- support clearer communication
+- reduce relational friction
+- improve collective decision-making
+
+## Philosophy
+
+Technology should not replace human thinking.  
+It should support it.
+
+## Website
+
+https://mindflow-interactive.com
